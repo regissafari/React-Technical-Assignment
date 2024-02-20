@@ -1,6 +1,6 @@
 # VueJS Technical Assignment
 
-# TO BE SUBMITTED BY 11:59 PM ON FEBRUARY 23, 2024
+# TO BE SUBMITTED BY 11:59 PM ON FEBRUARY 25, 2024
 
 ## Description
 
